@@ -1,6 +1,6 @@
 #Half-assed Vegan
 1. A vegan can choose the days they want to be a vegan.
-2. xpost route for schedule 
+2. x Post route for schedule 
 2. Angular form on client.
 1. A vegan can change the days they want to be a vegan.
 A vegan can be matched with another vegan.
