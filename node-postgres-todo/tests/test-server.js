@@ -8,9 +8,9 @@ chai.use(chaiHttp);
 
 TEST TEMPLATE
 
-describe('somefunction', function () {
+describe('Save a vegan', function () {
     describe('should be successful', function () {
-        it('in performing some test', function (done) {
+        it('in saving a vegan', function (done) {
             chai.request(server)
                 .post('/api/... ')
                 .send({

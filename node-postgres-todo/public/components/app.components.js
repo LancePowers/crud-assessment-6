@@ -2,7 +2,7 @@
     'use strict';
 
     angular.module('app.components', [
-        app.components.schedule
+        'app.components.schedule'
     ]);
 
 })();
